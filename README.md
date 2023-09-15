@@ -40,7 +40,7 @@ How can understanding filtration calculations like this benefit your engineering
 For those eager to explore further, we recommend diving into detailed case studies and research papers on filtration engineering. It's a fascinating field with endless possibilities for innovation.
 
 ## Engage and Learn 🌐
-Let's continue to explore, learn, and elevate our engineering skills together. Connect with us on LinkedIn at (https://www.linkedin.com/in/s-hilaluddin/)(YourLinkedInProfileLink) for more engineering insights, discussions, and collaboration opportunities.
+Let's continue to explore, learn, and elevate our engineering skills together. Connect with us on LinkedIn at [https://www.linkedin.com/in/s-hilaluddin/](YourLinkedInProfileLink) for more engineering insights, discussions, and collaboration opportunities.
 
 Thank you for joining us on this journey of understanding the Gross Area of a Pleated Element. Together, we can make a positive impact in the world of filtration and engineering!
 
